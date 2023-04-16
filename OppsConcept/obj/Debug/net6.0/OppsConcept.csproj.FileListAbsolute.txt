@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\OppsConcept\OppsConcept\bin\Debug\net6.0\OppsConcept.exe
+C:\Users\LENOVO\source\repos\OppsConcept\OppsConcept\bin\Debug\net6.0\OppsConcept.deps.json
+C:\Users\LENOVO\source\repos\OppsConcept\OppsConcept\bin\Debug\net6.0\OppsConcept.runtimeconfig.json
+C:\Users\LENOVO\source\repos\OppsConcept\OppsConcept\bin\Debug\net6.0\OppsConcept.dll
+C:\Users\LENOVO\source\repos\OppsConcept\OppsConcept\bin\Debug\net6.0\OppsConcept.pdb
+C:\Users\LENOVO\source\repos\OppsConcept\OppsConcept\obj\Debug\net6.0\OppsConcept.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\OppsConcept\OppsConcept\obj\Debug\net6.0\OppsConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\OppsConcept\OppsConcept\obj\Debug\net6.0\OppsConcept.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\OppsConcept\OppsConcept\obj\Debug\net6.0\OppsConcept.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\OppsConcept\OppsConcept\obj\Debug\net6.0\OppsConcept.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\OppsConcept\OppsConcept\obj\Debug\net6.0\OppsConcept.dll
+C:\Users\LENOVO\source\repos\OppsConcept\OppsConcept\obj\Debug\net6.0\refint\OppsConcept.dll
+C:\Users\LENOVO\source\repos\OppsConcept\OppsConcept\obj\Debug\net6.0\OppsConcept.pdb
+C:\Users\LENOVO\source\repos\OppsConcept\OppsConcept\obj\Debug\net6.0\OppsConcept.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\OppsConcept\OppsConcept\obj\Debug\net6.0\ref\OppsConcept.dll
